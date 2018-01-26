@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AIRDROP_CONTACTS</key>
+	<string>AirDrop:\nТільки для контактів</string>
+	<key>AIRDROP_EVERYONE</key>
+	<string>AirDrop:\nДля всіх</string>
+	<key>AIRDROP_MENU_CANCEL</key>
+	<string>Відміна</string>
+	<key>AIRDROP_MENU_CONTACTS</key>
+	<string>Тільки для контактів</string>
+	<key>AIRDROP_MENU_EVERYONE</key>
+	<string>Для всіх</string>
+	<key>AIRDROP_MENU_OFF</key>
+	<string>Прийом викл.</string>
+	<key>AIRDROP_MENU_TITLE</key>
+	<string>Ви можете зробити своє виявлення в AirDrop можливим і отримувати файли від всіх користувачів або тільки від користувачів у своїх контактах.</string>
+	<key>AIRDROP_OFF</key>
+	<string>AirDrop:\nПрийом викл.</string>
+	<key>AIRPLAY_MIRRORING</key>
+	<string>AirPlay\nДублюю</string>
+	<key>DARK_MODE_OFF</key>
+	<string>Темний режим: Викл.</string>
+	<key>DARK_MODE_ON</key>
+	<string>Темний режим: Вкл.</string>
+	<key>NIGHT_SHIFT_OFF</key>
+	<string>Night Shift: Викл.</string>
+	<key>NIGHT_SHIFT_ON</key>
+	<string>Night Shift: Вкл.</string>
+</dict>
+</plist>
